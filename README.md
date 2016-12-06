@@ -1,0 +1,2 @@
+# AutoMonitor
+基于Android的自动化埋点技术感知用户行为的实现Demo
